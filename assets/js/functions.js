@@ -129,7 +129,7 @@ function jobDone() {
 <h4><a href="pluralsight.html" style="color: yellow;">Pluralsight</h4></a>
 <h4><a href="Degreed.html" style="color: yellow;">Degreed</h4></a> 
 <h4><a href="ABAP.html" style="color: yellow;">ABAP</h4></a> 
-<h4><a href="W3Schools.html" style="color: yellow;">W3Schools, YouTube</h4></a>
+<h4><a href="w3Schools.html" style="color: yellow;">W3Schools, YouTube</h4></a>
 <h4><a href="amigos.html" style="color: yellow;">SQL AMIGOS</a></h4>
 <h4><a href="sql.html" style="color: yellow;">SQL</a></h4>
 <!-- </fieldset> -->
